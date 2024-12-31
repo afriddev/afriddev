@@ -7,7 +7,7 @@
 - 🌱 I am currently learning more about backend development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/afriddev/)
 - 😄 Pronouns: He/Him
-- ✨ Find all my projects at [afriddev.vercel.app](https://afriddev.vercel.app/)
+- ✨ Find all my projects at [portfolio](https://afriddev.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afriddev)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afriddev/)
