@@ -1,6 +1,9 @@
 
 # Hi there, I'm Shaik Afrid <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afriddev&show_icons=true&locale=en&layout=compact&theme=radical" alt="afriddev" /></p>
 ![afriddev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afriddev&theme=vue-dark&hide_border=true)
+
 
 ## I'm a Backend Developer
 
@@ -61,7 +64,6 @@
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
 </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afriddev&show_icons=true&locale=en&layout=compact&theme=radical" alt="afriddev" /></p>
 
 **I'm an Nighty 🐤** 
 
