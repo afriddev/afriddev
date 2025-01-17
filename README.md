@@ -4,7 +4,7 @@
 
 ## I'm a Backend Developer
 
-- 🌱 I am currently learning more about backend development.
+- 🌱 I am currently focusing on DSA.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/afriddev/)
 - 😄 Pronouns: He/Him
 - ✨ Find all my projects at [portfolio](https://afriddev.vercel.app/)
@@ -76,7 +76,7 @@
 
 <p align="center">
 <br/>
-<strong align="center">Why don&#39;t bachelors like Git?</strong>
+<strong align="center">Why developers prefer dark mode?</strong>
 <br/>
-<span align="center">Because they are afraid to commit.</span>
+<span align="center">Because they are afraid to bugs 😄</span>
 </p>
