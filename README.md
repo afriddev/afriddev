@@ -1,6 +1,6 @@
 
 # Hi there, I'm Shaik Afrid <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-
+![afriddev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afriddev&theme=vue-dark&hide_border=true)
 
 ## I'm a Backend Developer
 
@@ -22,7 +22,6 @@
 
 
 ## Skills 💪
-
 <p>
 <img width ='80px' height='25px' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
 <img width ='80px' height='25px' src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' />
