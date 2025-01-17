@@ -66,19 +66,11 @@
 </p>
 
 
-**I'm an Nighty 🐤** 
-
-```text
-🌞 Morning                        ██                  16.63 % 
-🌆 Daytime                        ██                  16.73 % 
-🌃 Evening                        ███████             29.40 % 
-🌙 Night                          ███████████████     37.24 %
-```
 
 
 <p align="center">
 <br/>
 <strong align="center">Why developers prefer dark mode?</strong>
 <br/>
-<span align="center">Because they are afraid to bugs 😄</span>
+<span align="center">Because they are afraid of bugs 😄</span>
 </p>
