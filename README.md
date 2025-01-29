@@ -18,7 +18,7 @@
 ## 🌟 Features
 
 - 🛠️ **Backend Mastery**: Built with **Spring Boot**, **Django**, **Flask**, and **FastAPI**.
-- 🧠 **Problem-Solving Expert**: Solved over **100 DSA problems**.
+- 🧠 **Problem-Solving Expert**: Solved over **150 DSA problems**.
 - 🎨 **Stunning UI**: Powered by **React**, **TailwindCSS**, and **ShadCN UI**.
 - 🚀 **Scalable APIs**: Reliable, secure, and high-performing solutions.
 
