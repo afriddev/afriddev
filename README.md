@@ -3,7 +3,6 @@
 
 
 
-
 ## I'm a Backend Developer
 
 - 🌱 I am currently focusing on DSA.
