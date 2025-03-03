@@ -64,9 +64,4 @@
 
 
 
-<p align="center">
-<br/>
-<strong align="center">Why developers prefer dark mode?</strong>
-<br/>
-<span align="center">Because they are afraid of bugs 😄</span>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=afriddev&theme=dark)](https://git.io/streak-stats)
