@@ -1,8 +1,6 @@
  
 # Hi there, I'm Shaik Afrid <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-
 ## I'm a Backend Developer
-
 - 🌱 I am currently focusing on DSA.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/afriddev/)
 - 😄 Pronouns: He/Him
