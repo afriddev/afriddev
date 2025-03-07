@@ -60,5 +60,5 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afriddev&show_icons=true&locale=en&layout=compact&theme=radical" alt="afriddev" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=afriddev" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=afriddev&theme=dracula&border_radius=4.3)](https://git.io/streak-stats)
 
