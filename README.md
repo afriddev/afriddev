@@ -1,5 +1,5 @@
- # Hi there, I'm Shaik Afrid <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-## I'm a Backend Developer
+# Hi there, I'm Shaik Afrid <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+## I'm a Fullstack Developer
 - 🌱 I am currently focusing on DSA.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/afriddev/)
 - 😄 Pronouns: He/Him
@@ -16,7 +16,6 @@
 - 🎨 **Stunning UI**: Powered by **React**, **TailwindCSS**, and **ShadCN UI**.
 - 🚀 **Scalable APIs**: Reliable, secure, and high-performing solutions.
 
-
 ## Skills 💪
 <p>
 <img width ='80px' height='25px' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
@@ -29,10 +28,8 @@
 <img width ='80px' height='25px' src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' />
 <img width ='80px' height='25px' src='https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi' />
 
-
 <img width ='80px' height='25px' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E' />
 <img width ='80px' height='25px' src='https://img.shields.io/badge/typescript-%2523007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white' />
-
 
 <img width ='80px' height='25px' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB' />
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
@@ -40,9 +37,6 @@
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white' />
 <!-- expressjs -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white' />
-
-
-
 
 <!-- postgresql -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white' />
@@ -59,5 +53,11 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afriddev&show_icons=true&locale=en&layout=compact&theme=radical" alt="afriddev" /></p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=afriddev&theme=dracula&border_radius=4.3)](https://git.io/streak-stats)
+
+
+
+If you enjoy my projects and would like to support me, feel free to buy me a coffee!
+
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" height="60" />
 
