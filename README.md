@@ -59,5 +59,7 @@
 If you enjoy my projects and would like to support me, feel free to buy me a coffee!
 
 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" height="60" />
+<a href="https://www.buymeacoffee.com/afriddev" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" height="60" />
+</a>
 
