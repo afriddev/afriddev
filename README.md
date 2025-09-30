@@ -12,7 +12,7 @@
 
 
 ## 🌟 What I Do
-- 🛠️ **Backend Mastery**: Spring Boot, Django, Flask, FastAPI.  
+- 🛠️ **Backend Mastery**: Spring Boot, NextJS, Django, FastAPI.  
 - 🎨 **Frontend Expertise**: React, Next.js, TailwindCSS, ShadCN UI.  
 - 🧠 **AI & LLMs**: Building RAG, GraphRAG, KG-RAG pipelines, integrating **vector databases**.  
 - 🚀 **Scalable APIs**: High-performance microservices with embeddings + reranking.  
