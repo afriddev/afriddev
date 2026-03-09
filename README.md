@@ -132,13 +132,6 @@ const afrid = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=afriddev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF2D55&text_color=ffffff"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afriddev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=ffffff&langs_count=7"/>
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afriddev&theme=highcontrast&hide_border=true&background=0d1117&ring=FF6B35&fire=FF2D55&currStreakLabel=FFD600"/>
 </div>
 
